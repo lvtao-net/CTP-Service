@@ -2,4 +2,5 @@ aiohttp
 apscheduler
 Cython
 ctpwrapper
+hashlib
 sanic<22
