@@ -1,5 +1,5 @@
 aiohttp
 apscheduler
-cython
+Cython
 ctpwrapper
 sanic<22
